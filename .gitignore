@@ -72,3 +72,5 @@ candidates.jpg
 !.env.example
 .gh_token_b64
 penny-bot/
+.gh_token_backup_b64
+hakim/

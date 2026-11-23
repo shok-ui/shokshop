@@ -1,5 +1,7 @@
 # ShokShop — Premium Tech & Lifestyle Store
 
+![ShokShop banner](assets/banner.png)
+
 A modern, production-style e-commerce web application built with **Next.js 16 (App Router)**, **TypeScript**, **Tailwind CSS 4**, **shadcn/ui** and **Prisma (SQLite)**.
 
 ![Next.js](https://img.shields.io/badge/Next.js-16-black)

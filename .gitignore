@@ -70,3 +70,5 @@ candidates.jpg
 
 # but keep the example env
 !.env.example
+.gh_token_b64
+penny-bot/
